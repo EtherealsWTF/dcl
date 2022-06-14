@@ -14,22 +14,8 @@
   "scene": {
     "parcels": [
       "0,0",
-      "1,0"
+      "0,1"
     ],
     "base": "0,0"
-  },
-  "source": {
-    "version": 1,
-    "origin": "builder",
-    "projectId": "7a796558-414d-4b21-91d6-6e9f4216821f",
-    "point": {
-      "x": 0,
-      "y": 0
-    },
-    "rotation": "east",
-    "layout": {
-      "rows": 2,
-      "cols": 1
-    }
   }
 }
